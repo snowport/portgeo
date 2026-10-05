@@ -2,7 +2,6 @@
 
 """Tests for `portgeo` package."""
 
-
 import unittest
 
 from portgeo import portgeo
